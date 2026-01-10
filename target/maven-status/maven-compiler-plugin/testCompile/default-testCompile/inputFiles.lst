@@ -7,6 +7,7 @@ D:\Automation\Selenium_with_Java\OpenCartV1\src\test\java\testBase\BaseClass.jav
 D:\Automation\Selenium_with_Java\OpenCartV1\src\test\java\testCases\TC001_AccountRegistrationTest.java
 D:\Automation\Selenium_with_Java\OpenCartV1\src\test\java\testCases\TC002_LoginTest.java
 D:\Automation\Selenium_with_Java\OpenCartV1\src\test\java\testCases\TC003_LoginDataDrivenTest.java
+D:\Automation\Selenium_with_Java\OpenCartV1\src\test\java\testCases\TC004_Search.java
 D:\Automation\Selenium_with_Java\OpenCartV1\src\test\java\utilities\DataProviders.java
 D:\Automation\Selenium_with_Java\OpenCartV1\src\test\java\utilities\ExcelUtility.java
 D:\Automation\Selenium_with_Java\OpenCartV1\src\test\java\utilities\ExtentReportsManager.java

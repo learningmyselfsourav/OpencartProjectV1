@@ -1,0 +1,51 @@
+00:48:54.806 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Starting of TC003_LoginFDataDrivenTest Test ****
+00:49:05.654 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Finished of TC003_LoginFDataDrivenTest Test ****
+00:49:05.657 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Starting of TC003_LoginFDataDrivenTest Test ****
+00:49:17.239 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Finished of TC003_LoginFDataDrivenTest Test ****
+00:49:17.242 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Starting of TC003_LoginFDataDrivenTest Test ****
+00:49:19.975 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Finished of TC003_LoginFDataDrivenTest Test ****
+00:50:36.737 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\Selenium_with_Java\OpenCartV1\master.xml"
+00:50:38.466 [main] INFO  testCases.TC001_AccountRegistrationTest - Test is running in Local session
+00:50:39.435 [main] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest started****
+00:50:39.691 [main] INFO  testCases.TC001_AccountRegistrationTest - My Account clicked
+00:50:40.137 [main] INFO  testCases.TC001_AccountRegistrationTest - Register clicked
+00:50:40.172 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+00:50:41.154 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome message validation
+00:50:41.977 [main] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest finished****
+00:50:43.379 [main] INFO  testCases.TC002_LoginTest - Test is running in Local session
+00:50:44.559 [main] INFO  testCases.TC002_LoginTest - **** Starting of Login Test ****
+00:50:46.815 [main] INFO  testCases.TC002_LoginTest - **** Finished of Login Test ****
+01:03:03.987 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\Selenium_with_Java\OpenCartV1\master.xml"
+01:03:05.947 [main] INFO  testCases.TC001_AccountRegistrationTest - Test is running in Local session
+01:03:07.424 [main] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest started****
+01:03:07.683 [main] INFO  testCases.TC001_AccountRegistrationTest - My Account clicked
+01:03:08.059 [main] INFO  testCases.TC001_AccountRegistrationTest - Register clicked
+01:03:08.063 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+01:03:10.321 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome message validation
+01:03:10.373 [main] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest finished****
+01:03:11.614 [main] INFO  testCases.TC002_LoginTest - Test is running in Local session
+01:03:12.567 [main] INFO  testCases.TC002_LoginTest - **** Starting of Login Test ****
+01:03:14.414 [main] INFO  testCases.TC002_LoginTest - **** Finished of Login Test ****
+01:06:20.908 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\Selenium_with_Java\OpenCartV1\master.xml"
+01:06:22.877 [main] INFO  testCases.TC001_AccountRegistrationTest - Test is running in Local session
+01:06:23.931 [main] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest started****
+01:06:24.213 [main] INFO  testCases.TC001_AccountRegistrationTest - My Account clicked
+01:06:24.582 [main] INFO  testCases.TC001_AccountRegistrationTest - Register clicked
+01:06:24.586 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+01:06:25.552 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome message validation
+01:06:26.770 [main] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest finished****
+01:06:27.872 [main] INFO  testCases.TC002_LoginTest - Test is running in Local session
+01:06:28.780 [main] INFO  testCases.TC002_LoginTest - **** Starting of Login Test ****
+01:06:30.447 [main] INFO  testCases.TC002_LoginTest - **** Finished of Login Test ****
+12:26:47.444 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\Selenium_with_Java\OpenCartV1\master.xml"
+12:26:50.802 [main] INFO  testCases.TC001_AccountRegistrationTest - Test is running in Remote session
+12:27:13.671 [main] INFO  testCases.TC002_LoginTest - Test is running in Remote session
+12:28:07.988 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\Selenium_with_Java\OpenCartV1\master.xml"
+12:28:10.037 [main] INFO  testCases.TC001_AccountRegistrationTest - Test is running in Remote session
+12:28:32.497 [main] INFO  testCases.TC002_LoginTest - Test is running in Remote session
+12:31:38.363 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\Selenium_with_Java\OpenCartV1\master.xml"
+12:41:48.593 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\Selenium_with_Java\OpenCartV1\master.xml"
+12:41:49.040 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\Selenium_with_Java\OpenCartV1\master.xml
+
+12:44:20.551 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\Selenium_with_Java\OpenCartV1\master.xml"

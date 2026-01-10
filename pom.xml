@@ -3,6 +3,9 @@
   <groupId>OpenCartV1</groupId>
   <artifactId>OpenCartV1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+	<properties>
+	    <browser>chrome</browser>
+	</properties>
   <build>
   	<pluginManagement>
   		<plugins>
@@ -19,6 +22,9 @@
 	          	<suiteXmlFiles>
 	          		<suiteXmlFile>master.xml</suiteXmlFile>
 	          	</suiteXmlFiles>
+	          	<systemPropertyVariables>
+                    <browser>${browser}</browser>
+                </systemPropertyVariables>
 	          </configuration>
 	        </plugin>
   		</plugins>
