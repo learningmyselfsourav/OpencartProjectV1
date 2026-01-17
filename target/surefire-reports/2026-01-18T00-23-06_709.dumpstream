@@ -1,4 +1,4 @@
-# Created at 2026-01-12T00:27:33.896
+# Created at 2026-01-18T00:23:06.914
 Boot Manifest-JAR contains absolute paths in classpath 'D:\Automation\Selenium_with_Java\OpenCartV1\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 'other' has different root

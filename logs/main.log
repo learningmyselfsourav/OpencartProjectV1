@@ -1,42 +1,10 @@
-21:14:25.176 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-21:14:25.181 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-21:14:25.185 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-21:14:25.202 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-21:14:25.231 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-21:14:25.235 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-21:14:25.237 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-21:14:25.255 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-21:14:25.291 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Starting of TC003_LoginFDataDrivenTest Test ****
-21:14:27.834 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Finished of TC003_LoginFDataDrivenTest Test ****
-21:14:27.841 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Starting of TC003_LoginFDataDrivenTest Test ****
-21:14:30.311 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Starting of TC003_LoginFDataDrivenTest Test ****
-21:14:41.936 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Finished of TC003_LoginFDataDrivenTest Test ****
-21:14:41.944 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Starting of TC003_LoginFDataDrivenTest Test ****
-21:14:53.630 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Finished of TC003_LoginFDataDrivenTest Test ****
-21:14:53.640 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Starting of TC003_LoginFDataDrivenTest Test ****
-21:14:55.781 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Finished of TC003_LoginFDataDrivenTest Test ****
-23:17:51.886 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\Selenium_with_Java\OpenCartV1\master.xml"
-23:17:52.303 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Automation\Selenium_with_Java\OpenCartV1\master.xml
-
-23:20:17.539 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\Selenium_with_Java\OpenCartV1\master.xml"
-23:20:17.754 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Automation\Selenium_with_Java\OpenCartV1\master.xml
-
-23:20:20.373 [main] INFO  testCases.TC001_AccountRegistrationTest - Test is running in Local session
-23:20:21.586 [main] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest started****
-23:20:21.919 [main] INFO  testCases.TC001_AccountRegistrationTest - My Account clicked
-23:20:22.656 [main] INFO  testCases.TC001_AccountRegistrationTest - Register clicked
-23:20:22.680 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
-23:20:23.726 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome message validation
-23:20:27.567 [main] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest finished****
-00:26:56.575 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\Selenium_with_Java\OpenCartV1\master.xml"
-00:26:58.949 [main] INFO  testCases.TC001_AccountRegistrationTest - Test is running in Local session
-00:27:34.858 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\Selenium_with_Java\OpenCartV1\master.xml"
-00:27:36.710 [main] INFO  testCases.TC001_AccountRegistrationTest - Test is running in Local session
-00:27:37.951 [main] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest started****
-00:27:38.160 [main] INFO  testCases.TC001_AccountRegistrationTest - My Account clicked
-00:27:38.885 [main] INFO  testCases.TC001_AccountRegistrationTest - Register clicked
-00:27:38.907 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
-00:27:42.650 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome message validation
-00:27:42.732 [main] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest finished****
+00:23:43.260 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:23:43.444 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+00:23:43.580 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Starting of TC003_LoginFDataDrivenTest Test ****
+00:23:56.608 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Starting of TC003_LoginFDataDrivenTest Test ****
+00:24:08.365 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Finished of TC003_LoginFDataDrivenTest Test ****
+00:24:08.368 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Starting of TC003_LoginFDataDrivenTest Test ****
+00:24:19.568 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Finished of TC003_LoginFDataDrivenTest Test ****
+00:24:19.571 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Starting of TC003_LoginFDataDrivenTest Test ****
+00:24:31.059 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Finished of TC003_LoginFDataDrivenTest Test ****
+00:24:31.072 [main] INFO  testCases.TC003_LoginDataDrivenTest - **** Starting of TC003_LoginFDataDrivenTest Test ****

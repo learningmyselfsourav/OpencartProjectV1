@@ -22,7 +22,7 @@ public class TC002_LoginTest extends BaseClass{
 			//LoginPage
 			LoginPage lp = new LoginPage(driver);
 			lp.setEmailID(p.getProperty("email"));
-			lp.setPassword(p.getProperty("password"));
+			lp.setPassword(p.getProperty("correct_password"));
 			lp.clickLogin();
 			
 			//MyAccountPage
